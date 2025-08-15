@@ -55,7 +55,7 @@
 ---
 
 ## 🐍 My Contributions Snake
-![Snake animation](https://github.com/InfinityAbir/InfinityAbir/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/InfinityAbir/InfinityAbir/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
