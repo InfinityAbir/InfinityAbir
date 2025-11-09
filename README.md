@@ -33,22 +33,33 @@ I build clean, secure web apps. These days I’m focused on **ASP.NET Core MVC**
 
 ## 🚀 Portfolio Highlights
 
-> Below are current public repos. .NET Core MVC projects are in progress and will be pinned here as they go live.
+Below are some of my recent and active projects across .NET, Django, and modern web development.
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| **Fire-Alarm-Simulation** | A simulation of fire alarm system behavior. | C++ |
-| **Library-management-system** | CRUD library system with basic admin pages. | PHP, HTML, CSS |
-| **Student-management-system** | Simple CRUD web UI for student records. | PHP, HTML, CSS |
-| **Text-Analyzer-by-Django** | Mini app for text transforms (uppercase, punctuation removal). | Python, Django, Bootstrap |
-| **Daraz-Clone** | UI clone of Daraz built with core web stack. | HTML, CSS, JavaScript |
-| **Python-Project** | Small utilities and experiments. | Python |
-| **Demo-Website (Portfolio)** | Responsive single-page portfolio. | HTML, CSS, Bootstrap 5 |
+| **Inventory-Management-System** | Visual Programming course project with stock tracking, alerts, CRUD operations, and user-friendly UI. | ASP.NET MVC, C#, SQL Server |
+| **Advanced-Weather-App** | Responsive weather app with multi-day forecasts, dark mode, animations, and country flags. | JavaScript, Weather API, HTML, CSS |
+| **E-Commerce-Website** | A modern product listing and cart-based e-commerce interface with clean UI. | HTML, CSS, JS, Bootstrap |
+| **Pharmacy-Management-System** | Django-based system for prescriptions, patients, and pharmacy workflow management. | Python, Django, Bootstrap, SQLite |
+| **Fire-Alarm-Simulation** | Simulation of fire alarm behavior and triggers. | C++ |
+| **Library-management-system** | CRUD-based library system with admin pages. | PHP, HTML, CSS |
+| **Student-management-system** | Simple CRUD interface for student records. | PHP, HTML, CSS |
+| **Text-Analyzer-by-Django** | Mini Django app for text modification (uppercase, punctuation remove). | Python, Django, Bootstrap |
+| **Daraz-Clone** | UI clone of Daraz using core web stack. | HTML, CSS, JavaScript |
+| **Python-Project** | Assorted utilities and experiments. | Python |
+| **Demo-Website (Portfolio)** | Clean single-page personal portfolio site. | HTML, CSS, Bootstrap 5 |
 
-### ⏭ Coming soon (ASP.NET Core MVC)
-- **InventoryManagement.MVC** — products, stock, low-stock alerts, PDF export
-- **RoleBasedDashboard.MVC** — users/roles, audit log, charts, soft delete
-- **BookingApp.MVC** — schedules, bookings, email notifications, Stripe test
+---
+
+### ⏭ In Progress (.NET Core MVC)
+
+These are currently in development and will be pinned once deployed with proper documentation and screenshots.
+
+- **InventoryManagement.MVC (Core Version)** — advanced stock control, admin dashboard, charts, low-stock email alerts  
+- **RoleBasedDashboard.MVC** — user/role management, permissions, audit logs, charts, clean architecture  
+- **BookingApp.MVC** — schedules, appointments, email notifications, Stripe test integration  
+- **HRManagementSystem.MVC** — employees, departments, attendance, payroll basics, role-based dashboard, reports
+
 
 Each .NET repo will include:
 - Seeded demo users (e.g., `admin@demo.com / P@ssw0rd!`)
