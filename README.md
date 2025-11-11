@@ -58,7 +58,7 @@ These are currently in development and will be pinned once deployed with proper 
 - **InventoryManagement.MVC (Core Version)** — advanced stock control, admin dashboard, charts, low-stock email alerts  
 - **RoleBasedDashboard.MVC** — user/role management, permissions, audit logs, charts, clean architecture  
 - **BookingApp.MVC** — schedules, appointments, email notifications, Stripe test integration  
-- **HRManagementSystem.MVC** — employees, departments, attendance, payroll basics, role-based dashboard, reports
+- **PayrollSystem.MVC** — employees, departments, attendance, payroll basics, role-based dashboard, reports
 
 
 Each .NET repo will include:
