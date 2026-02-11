@@ -1,110 +1,104 @@
-# Hi, I'm **Abir Hasan** 👋
+# Hi, I'm Abir Hasan 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=InfinityAbir&label=Profile%20Views&color=0e75b6&style=flat)
 
-I build clean, secure web apps. These days I’m focused on **ASP.NET Core MVC**, **EF Core**, and **SQL Server**, with Azure deployment. Previously I’ve shipped projects in **Python/Django**, **PHP**, and classic web stacks. Always learning, always shipping.
+I build clean, secure web applications focused on performance, structure, and real-world usability.
+
+Currently working deeply with **ASP.NET Core MVC**, **EF Core**, **SQL Server**, and **Azure deployment**.  
+Previously built production-style projects using **Python (Django)**, **PHP**, and modern web stacks.
+
+I care about writing maintainable code, designing proper database schemas, and shipping complete systems — not just demos.
 
 ---
 
-## 🔧 What I Do
+## 🔧 What I Build
 
-- **ASP.NET Core MVC apps** with role-based auth, CRUD, validation, and neat UI
-- **EF Core + SQL Server**: migrations, seeding, pagination, filtering, reporting
-- **APIs** with Swagger docs and Postman collections
-- **Deployments** to Azure App Service (and CI/CD when needed)
-- **Fixes & feature work** on existing .NET projects
+- ASP.NET Core MVC apps with role-based authentication
+- EF Core + SQL Server (migrations, seeding, reporting, pagination)
+- REST APIs with Swagger documentation
+- Structured CRUD systems with validation & clean UI
+- Azure deployments and environment configuration
+- Feature development and bug fixing in existing .NET projects
 
-> Want help on a .NET MVC feature, bug, or deploy?  
-> **Email:** abirha3896@gmail.com · **LinkedIn:** [/in/infinityabirhasan](https://www.linkedin.com/in/infinityabirhasan/)
-
----
-
-## 🧰 Tech I Use Now
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,postgres,sqlite,git,github,bootstrap,js,html,css,postman,docker" />
-</p>
-
-- Core stack: **C#**, **ASP.NET Core MVC**, **EF Core**, **SQL Server/SQLite**
-- Frontend: **Razor**, **Bootstrap**, a dash of **JS**
-- Tooling: **Git/GitHub**, **Postman**, **Swagger**, **Docker** (basics), **Azure**
+**Email:** abirha3896@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/infinityabirhasan/
 
 ---
 
-## 🚀 Portfolio Highlights
+## 🧰 Tech Stack
 
-Below are some of my recent and active projects across .NET, Django, and modern web development.
+Core:
+- C#
+- ASP.NET Core MVC
+- EF Core
+- SQL Server / SQLite
+
+Frontend:
+- Razor
+- Bootstrap
+- JavaScript
+- HTML / CSS
+
+Tools:
+- Git & GitHub
+- Postman
+- Swagger
+- Docker (basic)
+- Azure App Service
+
+---
+
+## 🚀 Selected Projects
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| **Inventory-Management-System** | Visual Programming course project with stock tracking, alerts, CRUD operations, and user-friendly UI. | ASP.NET MVC, C#, SQL Server |
-| **Advanced-Weather-App** | Responsive weather app with multi-day forecasts, dark mode, animations, and country flags. | JavaScript, Weather API, HTML, CSS |
-| **E-Commerce-Website** | A modern product listing and cart-based e-commerce interface with clean UI. | HTML, CSS, JS, Bootstrap |
-| **Pharmacy-Management-System** | Django-based system for prescriptions, patients, and pharmacy workflow management. | Python, Django, Bootstrap, SQLite |
-| **Fire-Alarm-Simulation** | Simulation of fire alarm behavior and triggers. | C++ |
-| **Library-management-system** | CRUD-based library system with admin pages. | PHP, HTML, CSS |
-| **Student-management-system** | Simple CRUD interface for student records. | PHP, HTML, CSS |
-| **Text-Analyzer-by-Django** | Mini Django app for text modification (uppercase, punctuation remove). | Python, Django, Bootstrap |
-| **Daraz-Clone** | UI clone of Daraz using core web stack. | HTML, CSS, JavaScript |
-| **Python-Project** | Assorted utilities and experiments. | Python |
-| **Demo-Website (Portfolio)** | Clean single-page personal portfolio site. | HTML, CSS, Bootstrap 5 |
+| **[Inventory-Management-System](https://github.com/InfinityAbir/Inventory-Management-System)** | Stock tracking system with alerts, structured CRUD, and clean UI. | ASP.NET MVC, C#, SQL Server |
+| **[E-Commerce-Website](https://github.com/InfinityAbir/E-commerce-Project-by-Dot-Net-MVC)** | Product listing site with interactive cart and modern UI. | HTML, CSS, JS, Bootstrap |
+| **[Pharmacy-Management-System](https://github.com/InfinityAbir/Pharmacy-Management-System-by-Django)** | Django-based system for prescriptions and workflow management. | Python, Django, Bootstrap, SQLite |
+| **[Fire-Alarm-Simulation](https://github.com/InfinityAbir/Fire-Alarm-Simulation)** | Simulation of trigger events and responses. | C++ |
+| **[Library-Management-System](https://github.com/InfinityAbir/Library-management-system)** | CRUD-based library system with admin pages. | PHP, HTML, CSS |
+| **[Student-Management-System](https://github.com/InfinityAbir/Student-management-system)** | Simple CRUD interface for student records. | PHP, HTML, CSS |
+| **[Text-Analyzer](https://github.com/InfinityAbir/Text-Analyzer-by-Django)** | Mini Django app for modifying text (uppercase, punctuation remove). | Python, Django, Bootstrap |
+| **[Daraz-Clone](https://github.com/InfinityAbir/Daraz-Clone)** | UI clone of Daraz using core web stack. | HTML, CSS, JavaScript |
+| **[Python-Project](https://github.com/InfinityAbir/Python-Project)** | Assorted utilities and experiments. | Python |
+| **[Demo Portfolio](https://github.com/InfinityAbir/Demo-Website-of-Mine)** | Clean single-page personal portfolio site. | HTML, CSS, Bootstrap |
+| **[Advanced-Weather-App](https://github.com/InfinityAbir/WeatherApp)** | Responsive weather app with multi-day forecasts, dark mode, and animations. | JavaScript, Weather API, HTML, CSS |
+
+
+More projects available in pinned repositories.
 
 ---
 
-### ⏭ In Progress (.NET Core MVC)
+## 🧪 In Progress (.NET Core MVC)
 
-These are currently in development and will be pinned once deployed with proper documentation and screenshots.
+- InventoryManagement.MVC (advanced stock + dashboard + alerts)
+- RoleBasedDashboard.MVC (permissions + audit logs + reporting)
+- BookingApp.MVC (appointments + email notifications + Stripe test)
+- PayrollSystem.MVC (employees + attendance + payroll reports)
 
-- **InventoryManagement.MVC (Core Version)** — advanced stock control, admin dashboard, charts, low-stock email alerts  
-- **RoleBasedDashboard.MVC** — user/role management, permissions, audit logs, charts, clean architecture  
-- **BookingApp.MVC** — schedules, appointments, email notifications, Stripe test integration  
-- **PayrollSystem.MVC** — employees, departments, attendance, payroll basics, role-based dashboard, reports
-
-
-Each .NET repo will include:
-- Seeded demo users (e.g., `admin@demo.com / P@ssw0rd!`)
-- Clear README with screenshots
-- Swagger (for API bits) and a quickstart section
-- Live demo link when deployed
+Each project includes:
+- Seeded demo users
+- Proper README documentation
+- Clean architecture structure
+- Deployment-ready configuration
 
 ---
 
-## 🛠️ Starter Boilerplate (WIP)
+## 📊 GitHub Activity
 
-**AbirStarterKit.MVC**
-- ASP.NET Core MVC + Identity (email confirm/reset)
-- Base entities (Id, CreatedAt, UpdatedAt, IsDeleted)
-- EF Core with pagination/sorting helpers
-- Error handling + toast notifications
-- Dockerfile + `appsettings.Development.json` sample
-- Ready for Azure deploy
+<img src="https://streak-stats.demolab.com?user=InfinityAbir&theme=tokyonight&hide_border=true" />
 
-> The goal: ship features faster with consistent quality.
-
----
-
-## 📊 GitHub Stats
-
-![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityAbir&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityAbir&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=InfinityAbir&theme=radical)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityAbir&theme=tokyo-night&hide_border=true" />
 
 ---
 
 ## 📬 Connect
 
-- **Email:** [abirha3896@gmail.com](mailto:abirha3896@gmail.com)
-- **LinkedIn:** [linkedin.com/in/infinityabirhasan](https://www.linkedin.com/in/infinityabirhasan/)
-- **X (Twitter):** [@abirha3896](https://x.com/abirha3896?t=XY_5Tldw7t-sCapn8kAS0A&s=09)
-- **GitHub:** [@InfinityAbir](https://github.com/InfinityAbir)
-
-> **“Always learning, always improving.”**
+Email: abirha3896@gmail.com  
+LinkedIn: https://www.linkedin.com/in/infinityabirhasan/  
+X (Twitter): https://x.com/abirha3896  
+GitHub: https://github.com/InfinityAbir
 
 ---
 
-## 🐍 Contributions Snake
-
-![Snake animation](https://github.com/InfinityAbir/InfinityAbir/blob/main/dist/github-contribution-grid-snake.svg)
----
-
-**⚡ I’m always open to collaborating on exciting ideas—let’s build something great together!**
+Building consistently. Improving deliberately.
