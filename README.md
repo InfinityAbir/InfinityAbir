@@ -88,8 +88,6 @@ Each project includes:
 
 <img src="https://streak-stats.demolab.com?user=InfinityAbir&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfinityAbir&theme=tokyo-night&hide_border=true" />
-
 ---
 
 ## 📬 Connect
