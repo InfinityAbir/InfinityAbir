@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=InfinityAbir&label=Profile%20Views&color=0e75b6&style=flat)
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-View%20Live-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=24292e)](Portfolio: https://infinityabir.github.io/abir-hasan-portfolio/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-View%20Live-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=24292e)](https://infinityabir.github.io/abir-hasan-portfolio/)
 
 I build clean, secure web applications focused on performance, structure, and real-world usability.
 
